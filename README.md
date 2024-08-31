@@ -1,13 +1,13 @@
 # project-2
 #to do application
 
-#include <iostream> // Include standard input-output library
+#include <iostream> 
 
-#include <cstdlib> // Include standard library for functions like rand()
+#include <cstdlib> 
 
-#include <cmath> // Include cmath library for mathematical functions
+#include <cmath>
 
-#include <bits/stdc++.h> // Include all standard libraries (for maps, vectors, etc.)
+#include <bits/stdc++.h> 
 
 #include<ctime>
 
